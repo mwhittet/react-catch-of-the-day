@@ -8,6 +8,8 @@ Install dependencies and setup:
 - localhost:3000
 
 Notes:
-- More to come
 - React
 - JSX/ES6
+- Stylus
+- Firebase
+- React animations
